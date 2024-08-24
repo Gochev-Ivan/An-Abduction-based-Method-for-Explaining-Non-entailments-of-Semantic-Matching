@@ -3,6 +3,8 @@ This is the repository for the "Explaining EL Non-entailments via Subtree Isomor
 
 This repository contains the files/folders with the code implementation of the method for the "Explaining EL Non-entailments via Subtree Isomorphisms" journal paper, submitted at the Semantic Web Journal.:
 
+To open the code, download the zip file and open it in a new Maven Project. Build the project.
+
 Dependencies used (found in the pom.xml file of the Maven Project):
 
 <dependencies>
