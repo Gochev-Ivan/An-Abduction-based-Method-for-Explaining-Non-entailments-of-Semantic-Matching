@@ -93,9 +93,3 @@ The repository contains a JAR file that can be used to run the method. To run th
 3. Once you are in the correct folder execute the command: java -jar method.jar
 
 The main function will run and provide a basic UI in the command prompt to work with the method or run the synthetic and real data experiments.
-
-To read the results, a Python script and an executable file of that script is provided.
-
-...
-
-
