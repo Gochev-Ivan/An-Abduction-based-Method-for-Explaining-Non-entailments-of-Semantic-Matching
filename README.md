@@ -86,6 +86,16 @@ The experiments are performed w.r.t. ontologies, saved as .owl files. To directl
 
 Running the code:
 
+The repository contains a JAR file that can be used to run the method. To run the JAR file, do the following:
+
+1. Open the command prompt (cmd)
+2. Navigate to the folder in which the JAR file is (e.g. cd C:\Users\Desktop...)
+3. Once you are in the correct folder execute the command: java -jar method.jar
+
+The main function will run and provide a basic UI in the command prompt to work with the method or run the synthetic and real data experiments.
+
+To read the results, a Python script and an executable file of that script is provided.
+
 ...
 
 
